@@ -7,38 +7,41 @@ The goal of this repo is to practice and showcase fundamental algorithmic techni
 
 ## 📂 Repository Structure
 
+```text
 ├── .gitignore
-├── .vscode/ # VS Code tasks/settings
-│ └── tasks.json
-├── Bellman-Ford.c # Bellman-Ford shortest path algorithm
+├── .vscode/                  # VS Code tasks/settings
+│   └── tasks.json
+├── Bellman-Ford.c            # Bellman-Ford shortest path algorithm
 ├── Data Structures(New)/
-│ ├── CircularLinkedList.cpp
-│ ├── DoublyLinkedList.cpp
-│ └── LinkedList.cpp
+│   ├── CircularLinkedList.cpp # Circular Linked List
+│   ├── DoublyLinkedList.cpp   # Doubly Linked List
+│   └── LinkedList.cpp         # Singly Linked List
 ├── Sorting algorithms/
-│ ├── .vscode/settings.json
-│ ├── BubbleSort.cpp
-│ ├── HeapSort.cpp
-│ ├── InsertionSort.cpp
-│ ├── MergeSort.cpp
-│ ├── QuickSort.cpp
-│ └── SelectionSort.cpp
-├── bfs_dfs.c # BFS & DFS traversals
-├── dijkstra.c # Dijkstra’s shortest path
-├── flyodWarshall.c # Floyd–Warshall all-pairs shortest path
-├── fractionaKnapsack.cpp # Fractional Knapsack (Greedy)
-├── graphColouring.c # Graph Coloring (Backtracking)
-├── hamiltonianCycle.c # Hamiltonian Cycle detection
-├── heapSort.c # Heap Sort (C version)
-├── kmp.c / kmp.cpp # Knuth–Morris–Pratt string matching
-├── knap.c # 0/1 Knapsack (DP)
-├── kruskal.c # Kruskal’s MST algorithm
-├── matrixChain.c # Matrix Chain Multiplication (DP)
-├── nQueen.c # N-Queens problem (Backtracking)
-├── prims.c # Prim’s MST algorithm
-├── quickSort.c # Quick Sort (C version)
-├── travellingSalesman.c # Travelling Salesman Problem (DP/Backtracking)
-└── zeroOneKnapsack.c # 0/1 Knapsack (DP)
+│   ├── .vscode/settings.json
+│   ├── BubbleSort.cpp         # Bubble Sort
+│   ├── HeapSort.cpp           # Heap Sort (C++)
+│   ├── InsertionSort.cpp      # Insertion Sort
+│   ├── MergeSort.cpp          # Merge Sort
+│   ├── QuickSort.cpp          # Quick Sort (C++)
+│   └── SelectionSort.cpp      # Selection Sort
+├── bfs_dfs.c                  # BFS & DFS traversals
+├── dijkstra.c                 # Dijkstra’s shortest path
+├── flyodWarshall.c            # Floyd–Warshall all-pairs shortest path
+├── fractionaKnapsack.cpp      # Fractional Knapsack (Greedy)
+├── graphColouring.c           # Graph Coloring (Backtracking)
+├── hamiltonianCycle.c         # Hamiltonian Cycle detection
+├── heapSort.c                 # Heap Sort (C version)
+├── kmp.c                      # KMP string matching (C)
+├── kmp.cpp                    # KMP string matching (C++)
+├── knap.c                     # 0/1 Knapsack (DP - C)
+├── kruskal.c                  # Kruskal’s MST algorithm
+├── matrixChain.c              # Matrix Chain Multiplication (DP)
+├── nQueen.c                   # N-Queens problem (Backtracking)
+├── prims.c                    # Prim’s MST algorithm
+├── quickSort.c                # Quick Sort (C version)
+├── travellingSalesman.c       # Travelling Salesman Problem (DP/Backtracking)
+└── zeroOneKnapsack.c          # 0/1 Knapsack (DP)
+
 
 
 ---
@@ -84,3 +87,4 @@ The goal of this repo is to practice and showcase fundamental algorithmic techni
 - Doubly Linked List
 
 These programs are educational references for learning DAA and may not be optimized for production use.
+
