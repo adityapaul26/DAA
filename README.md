@@ -41,7 +41,7 @@ The goal of this repo is to practice and showcase fundamental algorithmic techni
 ├── quickSort.c                # Quick Sort (C version)
 ├── travellingSalesman.c       # Travelling Salesman Problem (DP/Backtracking)
 └── zeroOneKnapsack.c          # 0/1 Knapsack (DP)
-
+```
 
 
 ---
@@ -87,4 +87,5 @@ The goal of this repo is to practice and showcase fundamental algorithmic techni
 - Doubly Linked List
 
 These programs are educational references for learning DAA and may not be optimized for production use.
+
 
